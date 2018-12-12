@@ -31,7 +31,7 @@ public abstract class Person {
 			}
 
 		}
-		return total_value;
+		return total_value;//回傳此牌局所得的卡點數加總
 	}
 	public boolean hasAce() {
 		boolean hasAce= false;
